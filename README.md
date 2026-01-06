@@ -81,7 +81,6 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 ## 🌍 Portfolio
 ✨ **Portfolio:** [https://murti.dev](https://cloudwithmurti-dev.lovable.app)  
-*(replace with your final domain if needed)*
 
 ---
 
