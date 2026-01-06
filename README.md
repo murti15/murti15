@@ -71,12 +71,12 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 ---
 
-## 🎯 What I’m Currently Focusing On
-- Strengthening expertise in **AWS serverless and cloud-native systems**  
-- Improving **system design and backend scalability**  
-- Building **end-to-end products** with strong engineering foundations  
-- Writing better APIs and more maintainable architectures  
+## 🎯 What I’m Currently Focused On
 
+- Deepening expertise in **AWS serverless and cloud-native architectures** while building **scalable, cost-efficient backend systems**
+- Strengthening **system design and backend scalability**, with a strong focus on performance, reliability, and clean architecture
+- Building **end-to-end full-stack products**, contributing across **backend APIs, cloud infrastructure, and modern frontend interfaces** using React and Next.js
+- Continuously improving **API design, code maintainability, and overall system quality** to support long-term product evolution
 ---
 
 ## 🌍 Portfolio
