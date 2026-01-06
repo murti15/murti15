@@ -84,12 +84,24 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murti15&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=murti15&hide_border=true" height="160"/>
-</p>
+- 💻 **4.5+ years** of professional experience in Full Stack Development  
+- ⚙️ Strong focus on **Backend Engineering & AWS Serverless Architecture**  
+- 🧠 Experience building **scalable APIs, cloud-native systems, and frontend applications**  
+- 🚀 Actively building and maintaining **production-ready projects**  
+
+🔗 GitHub Profile: https://github.com/murti-14
+
+---
+
+---
+
+## 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=simmi-14&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/simmi-14?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/simmi-14?label=Stars&style=flat)
 
 ---
 
