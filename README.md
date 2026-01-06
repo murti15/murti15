@@ -88,7 +88,7 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simmi-14&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simmi-14&theme=default&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=simmi-14&hide_border=true" height="160"/>
 </p>
 
 ---
