@@ -95,13 +95,11 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 ---
 
----
-
 ## 📊 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=simmi-14&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/simmi-14?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/simmi-14?label=Stars&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=murti15&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/murti15?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/murti15?label=Stars&style=flat)
 
 ---
 
