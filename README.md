@@ -87,8 +87,8 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simmi-14&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=simmi-14&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=murti15&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=murti15&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 ## 📬 Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/murti-kumari-119103114/  
-- **GitHub:** https://github.com/simmi-14  
+- **GitHub:** https://github.com/murti15  
 - **Email:** murtiisingh02@gmail.com  
 
 ---
