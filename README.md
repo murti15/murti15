@@ -1,97 +1,102 @@
-# 👋 Hi, I’m Murti Kumari
+# 👋 Hi, I'm Murti Kumari
 
-🚀 **Full Stack Engineer | Backend & AWS Specialist**  
-*I design scalable backend systems, build cloud-native applications, and craft clean web interfaces.*
+🚀 **Senior Backend & Cloud Engineer | AWS | Python (FastAPI) & Node.js/TypeScript | Generative AI (LLM/RAG)**
+*I design scalable backend systems, build cloud-native applications, and engineer production GenAI/LLM pipelines.*
 
-I’m a **Full Stack Engineer with 4.5+ years of experience** working across frontend, backend, and cloud platforms. My primary strength lies in **backend engineering and AWS serverless architecture**, where I focus on building systems that are reliable, scalable, and easy to maintain.
+I'm a **Backend & Cloud Engineer with 5+ years of experience** working across backend, cloud infrastructure, and Generative AI systems. My primary strength lies in **AWS serverless architecture and Python/Node.js backend engineering**, with a growing specialization in **LLM and RAG (Retrieval-Augmented Generation) pipelines**.
 
-I enjoy working end-to-end — from designing APIs and cloud infrastructure to delivering responsive user interfaces. I care deeply about clean architecture, thoughtful system design, and writing code that grows with product and users.
+I enjoy working end-to-end — from designing APIs and cloud infrastructure to integrating LLMs into production systems. I care deeply about clean architecture, thoughtful system design, and building AI-powered backends that are reliable and scalable.
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Backend & Cloud**
-- Node.js, TypeScript, Express.js  
-- AWS (Lambda, API Gateway, DynamoDB, RDS, S3, CloudFront, CDK)  
-- REST APIs, GraphQL, Serverless Architecture  
+### **Backend**
+- Python, FastAPI, asyncio, Pydantic v2
+- Node.js, TypeScript, Express.js, NestJS
+- REST APIs, GraphQL, WebSockets, Microservices, Event-Driven Architecture
+- JWT Authentication, OAuth2, RBAC, Rate Limiting
+
+### **Cloud & AWS**
+- AWS Lambda, Amazon API Gateway, AWS CDK, Amazon EC2
+- AWS Step Functions, Amazon EventBridge, Amazon SQS/SNS
+- Amazon DynamoDB, Amazon RDS, Amazon S3, Amazon CloudFront
+- Amazon VPC, IAM, Secrets Manager, Route 53, CloudFormation
+- AWS MediaConvert, AWS Glue, Amazon Kinesis, Redshift, EMR, Athena
+
+### **Generative AI & LLM Engineering**
+- Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
+- LangChain, LangGraph, Prompt Engineering, AI Agents
+- Amazon Bedrock (Claude, Titan), OpenAI GPT-4o, Groq
+- Vector Databases: FAISS, OpenSearch, ChromaDB
+- Embeddings, scikit-learn
+
+### **AI/ML (AWS)**
+- Amazon Rekognition, Amazon Comprehend, Amazon Textract
+- Amazon Transcribe, Amazon SageMaker, Amazon Lex, Amazon Polly
 
 ### **Frontend**
-- React.js, Next.js, Redux, Hooks  
-- JavaScript (ES6+), HTML, CSS  
+- React.js, Next.js, Redux, TypeScript, Tailwind CSS, Apollo Client
 
 ### **Databases**
-- DynamoDB  
-- PostgreSQL, MySQL  
-- MongoDB  
+- PostgreSQL, MySQL, MongoDB, DynamoDB, Elasticsearch, Redis
 
 ### **DevOps & Engineering**
-- Docker, CI/CD (GitHub Actions), Linux  
-- System Design, Scalable Architecture, API Design  
+- Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins, Bitbucket Pipelines)
+- Infrastructure as Code, System Design, Distributed Systems, Linux
 
 ---
 
-## 💡 Selected Personal Projects
+## 💡 Featured Project
+
+### 🤖 HR Policy Assistant — AI-Powered RAG Chatbot
+A Retrieval-Augmented Generation chatbot built with Python, FastAPI, and LangChain, using a ChromaDB vector store with a provider-agnostic LLM layer (AWS Bedrock/Claude for production design, Groq/Llama for the live demo). Deployed via AWS CDK to ECS Fargate with an Application Load Balancer and Auto Scaling, plus a scikit-learn query classifier to route sensitive queries to human review.
+🔗 [Live Demo](https://hr-policy-assistant-2bc9.onrender.com/docs) | [GitHub](https://github.com/murti15/hr-policy-assistant)
+
+---
+
+## 📂 Other Personal Projects
 
 ### 🍽️ Food Recipe Discovery App
-A responsive recipe exploration platform where users can browse and search recipes based on ingredients, cuisine, and preferences. Built with a clean UI and reusable React components for a smooth user experience.  
-🔗 https://allrecipies.netlify.com  
-
----
+A recipe exploration platform with search by ingredients, cuisine, and preferences, built with reusable React components.
+🔗 https://allrecipies.netlify.app
 
 ### 🎬 Movies Exploration App
-An interactive application for browsing and discovering movies across genres, featuring detailed movie information such as ratings, synopsis, and release details.  
-🔗 https://moviesinfoall.netlify.com  
-
----
+Browse and discover movies across genres with ratings, synopsis, and release details.
+🔗 https://moviesinfoall.netlify.app
 
 ### 🛒 Shopping App
-A modern shopping application that allows users to browse products, search by categories, and manage a dynamic shopping cart with real-time updates.  
-🔗 https://shoppingapp.netlify.com  
-
----
+Browse products, search by category, and manage a dynamic shopping cart with real-time updates.
+🔗 https://shoppingapp.netlify.app
 
 ### ✅ Todo List App
-A lightweight task management application designed to help users organize daily tasks efficiently with instant UI updates.  
-🔗 https://tlistt.netlify.com  
-
----
+A lightweight task management app with instant UI updates.
+🔗 https://tlistt.netlify.app
 
 ### 🌐 UI Sample Website
-A responsive sample website showcasing modern layouts, typography, and frontend best practices using React.  
-🔗 https://uisample.netlify.com  
+A responsive sample site showcasing modern layouts and frontend best practices with React.
+🔗 https://uisample.netlify.app
 
 ---
 
 ## ✨ How I Think & Work
-- I prefer **simple, scalable solutions** over over-engineering  
-- I focus on **backend reliability and performance** first  
-- I value **clean code and long-term maintainability**  
-- I enjoy building products that solve **real user problems**  
+- I prefer **simple, scalable solutions** over over-engineering
+- I focus on **backend reliability and performance** first
+- I value **clean code and long-term maintainability**
+- I'm actively deepening my expertise in **Generative AI / LLM backend engineering**
 
 ---
 
-## 🎯 What I’m Currently Focused On
+## 🎯 What I'm Currently Focused On
+- Building production **GenAI/LLM backends** using Amazon Bedrock, LangChain, and RAG pipelines
+- Deepening expertise in **AWS serverless and cloud-native architectures**
+- Delivering **AI-integrated Python FastAPI systems** for global freelance clients
+- Strengthening **system design, microservices, and distributed systems architecture**
 
-- Deepening expertise in **AWS serverless and cloud-native architectures** while building **scalable, cost-efficient backend systems**
-- Strengthening **system design and backend scalability**, with a strong focus on performance, reliability, and clean architecture
-- Building **end-to-end full-stack products**, contributing across **backend APIs, cloud infrastructure, and modern frontend interfaces** using React and Next.js
-- Continuously improving **API design, code maintainability, and overall system quality** to support long-term product evolution
 ---
 
 ## 🌍 Portfolio
-✨ **Portfolio:** [https://murti.dev](https://cloudwithmurti-dev.lovable.app)  
-
----
-
-## 📊 GitHub Overview
-
-- 💻 **4.5+ years** of professional experience in Full Stack Development  
-- ⚙️ Strong focus on **Backend Engineering & AWS Serverless Architecture**  
-- 🧠 Experience building **scalable APIs, cloud-native systems, and frontend applications**  
-- 🚀 Actively building and maintaining **production-ready projects**  
-
-🔗 GitHub Profile: https://github.com/murti-14
+✨ **Portfolio:** [cloudwithmurti-dev.vercel.app](https://cloudwithmurti-dev.vercel.app)
 
 ---
 
@@ -105,34 +110,36 @@ A responsive sample website showcasing modern layouts, typography, and frontend 
 
 ## 🧠 Core Technologies
 
-### Backend & Cloud
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-### DevOps & Tools
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📬 Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/murti-kumari-119103114/  
-- **GitHub:** https://github.com/murti15  
-- **Email:** murtiisingh02@gmail.com  
+## 📬 Let's Connect
+- **LinkedIn:** https://linkedin.com/in/murti-kumari
+- **GitHub:** https://github.com/murti15
+- **Email:** murtiisingh02@gmail.com
 
 ---
 
 ## 🤝 Open to Opportunities
-I’m open to **remote full-stack, backend, and cloud-focused roles** where I can contribute to building scalable systems and meaningful products.  
-If you’re working on something impactful and value solid engineering, let’s connect.
+I'm open to **remote backend, cloud, and Generative AI/LLM-focused roles** (Full-Time | Contract | Global) where I can build scalable systems and production-grade AI-powered products.
